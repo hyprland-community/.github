@@ -1,4 +1,6 @@
 # Hyprland Community
+[![Discord](https://img.shields.io/discord/1055990214411169892?label=discord)](https://discord.gg/zzWqvcKRMy)
+
 Just a place for people to store their Hyprland related projects
 
 ## Affiliation
