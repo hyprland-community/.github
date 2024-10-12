@@ -1,20 +1,37 @@
-# Hyprland Community
-[![Discord](https://img.shields.io/discord/1055990214411169892?label=discord)](https://discord.gg/zzWqvcKRMy)
-![GitHub Org's stars](https://img.shields.io/github/stars/hyprland-community?label=Total%20Stars&style=social)
+<div align="center">
+  <h2>Hyprland Community</h2>
+  <p>A cozy place for anyone to create, share, incubate or store Hyprland related projects!</p>
 
-A place for people to store, create and, share their Hyprland related projects!
+  
+  <a href="https://discord.gg/zzWqvcKRMy">
+    <img src="https://img.shields.io/discord/1055990214411169892?label=Join%20the%20Discord" alt="Discord">
+  </a>
+  <img src="https://img.shields.io/github/stars/hyprland-community?label=Total%20Stars&style=social" alt="GitHub Org's stars">
 
-## Repo Request
-To make a request to add one of your repos to hyprland-communitycheck out the 
-[submissions repo](https://github.com/hyprland-community/submissions)
+</div>
 
 ## Community
 
+
+### Repository Request
+
+[submissions repository]: https://github.com/hyprland-community/submissions
+
+In order to make a request to move one or more of your repositories under the hyprland-community
+umbrella, please check out the [submissions repository] and follow the instructions provided.
+
 ### Post your Theme
-We run a [theme repo](https://github.com/hyprland-community/theme-repo), which is open to anyone to contribute to!
 
-### Request a Project idea
-If you want something for Hyprland, but don't know how to create it, or just
-don't want to, make a post in the [discussions](https://github.com/orgs/hyprland-community/discussions), and someone might make it!
+[themes repo]: https://github.com/hyprland-community/theme-repo
 
-###### Hyprland is not affiliated with hyprland-community 
+We run a collective and open-source [themes repository] that is open for *anyone* to contribute to!
+Got a cool theme? Create a pull request!
+
+### Project Request
+
+[discussions tab]: https://github.com/orgs/hyprland-community/discussions
+
+If you have a really cool idea for Hyprland, but don't know how to create it, or just
+don't want to, make a post in the [discussions tab] and someone *might* just make it!
+
+<h6 align="center">Hyprland is not affiliated with hyprland-community in any shape or form.<h6>
